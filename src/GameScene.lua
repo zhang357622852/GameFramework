@@ -28,6 +28,7 @@ end
 function GameScene:initInformation()
     
     self:initRequire()
+    self:initAudio()
     
     math.randomseed(os.time())
     
@@ -46,12 +47,17 @@ function GameScene:initInformation()
     
 end
 
+--加载头文件
 function GameScene:initRequire()   
     require "common.common"
-    require "layer.layer"
-    
+    require "layer.layer"   
 end
 
+--加载通用音乐/音效
+function  GameScene:initAudio()
+    --音效
+    cc.SimpleAudioEngine:getInstance():preloadEffect("audio/click_1.wav")
+end
 
 
 

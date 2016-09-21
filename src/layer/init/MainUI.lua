@@ -139,8 +139,6 @@ function MainUI:initView()
     render:endToLua() --原本是end(),因为end是lua中的关键字，所以改成endToLua
     
     render:saveToFile("myPic.png", cc.IMAGE_FORMAT_PNG) --这个后面也有设置回调函数 —添加回调函数会报错
-    
-   
         
 end
 
