@@ -2,7 +2,7 @@
   "init_cfg": {
     "isLandscape": false,
     "isWindowTop": false,
-    "name": "testPro",
+    "name": "Game",
     "width": 854,
     "height": 480,
     "entry": "src/main.lua",

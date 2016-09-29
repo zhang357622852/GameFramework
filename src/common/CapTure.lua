@@ -13,7 +13,9 @@ end
 
 function CapTure:ctor()
 	self._type = "CapTure"
+	--self:setMask(false)
 end
 
 function CapTure:initView()
+    
 end

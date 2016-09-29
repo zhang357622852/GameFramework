@@ -35,7 +35,7 @@ function GameScene:initInformation()
     local function callback_rotation(sender, eventType)
         if eventType == ccui.TouchEventType.ended then                 
             local layer = MainUI.create()
-            layer:addto(GLOBAL_INSTANCE_SCENE, 10)
+            layer:addto(GLOBAL_INSTANCE_SCENE)
         end
     end
 
