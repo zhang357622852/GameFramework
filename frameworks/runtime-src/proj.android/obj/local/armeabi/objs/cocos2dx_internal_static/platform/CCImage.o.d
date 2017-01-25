@@ -1,0 +1,293 @@
+obj/local/armeabi/objs/cocos2dx_internal_static/platform/CCImage.o: \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCImage.cpp \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCImage.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCRef.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformMacros.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccConfig.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformConfig.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformDefine.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCPlatformDefine-android.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/log.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./renderer/CCTexture2D.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCGeometry.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/math.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccMacros.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCConsole.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCStdC.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCStdC-android.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdlib.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccRandom.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCMath.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCMathBase.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.inl \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.inl \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.inl \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.inl \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Quaternion.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Quaternion.inl \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccTypes.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCGL.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCGL-android.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCData.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/png.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/pnglibconf.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/pngconf.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/setjmp.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/setjmp.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffio.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiff.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffconf.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffvers.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/etc1.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jpeglib.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jconfig.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jmorecfg.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/s3tc.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/atitc.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/pvr.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/TGAlib.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/webp/prebuilt/android/../../include/android/decode.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/webp/prebuilt/android/../../include/android/./types.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/inttypes.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCCommon.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCStdC.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCFileUtils.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCValue.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCConfiguration.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccUtils.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./2d/CCNode.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCVector.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCProtocols.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCScriptSupport.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCCommon.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCTouch.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEventTouch.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEvent.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEventKeyboard.h \
+ E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCAffineTransform.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ZipUtils.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCFileUtils-android.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCFileUtils.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/jni.h \
+ E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/asset_manager.h \
+ C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCFileUtils-android.h
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCImage.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCRef.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformMacros.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccConfig.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformConfig.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCPlatformDefine.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCPlatformDefine-android.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/log.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./renderer/CCTexture2D.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCGeometry.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/math.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccMacros.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCConsole.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/select.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCStdC.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCStdC-android.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdlib.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccRandom.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCMath.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCMathBase.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.inl:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec2.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.inl:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec3.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.inl:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.inl:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Vec4.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Mat4.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Quaternion.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/Quaternion.inl:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccTypes.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCGL.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCGL-android.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCData.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/png.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/pnglibconf.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/png/prebuilt/android/../../include/android/pngconf.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/setjmp.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/setjmp.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffio.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiff.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffconf.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/tiff/prebuilt/android/../../include/android/tiffvers.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/etc1.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jpeglib.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jconfig.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/jpeg/prebuilt/android/../../include/android/jmorecfg.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/s3tc.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/atitc.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/pvr.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/TGAlib.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/webp/prebuilt/android/../../include/android/decode.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/external/webp/prebuilt/android/../../include/android/./types.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/inttypes.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCCommon.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCStdC.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCFileUtils.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCValue.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCConfiguration.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ccUtils.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./2d/CCNode.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCVector.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCProtocols.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCScriptSupport.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCCommon.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCTouch.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEventTouch.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEvent.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/CCEventKeyboard.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./math/CCAffineTransform.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./base/ZipUtils.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCFileUtils-android.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/CCFileUtils.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/jni.h:
+
+E:/android_ndk_r10d/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/asset_manager.h:
+
+C:\Users\Administrator\Desktop\GameFramework\frameworks\runtime-src\proj.android\../../cocos2d-x/cocos//./platform/android/CCFileUtils-android.h:
